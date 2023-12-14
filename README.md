@@ -1,5 +1,4 @@
-## Next.js App Router Course - Starter
+Latihan NEXT JS 14 dengan fitur baru server action
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+kesimpulan latihan next js versi 14
+- mudah faham, lebih ke simple penggunaan crud dalam interaksi antara frond end dan backendnya
